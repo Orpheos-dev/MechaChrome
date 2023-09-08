@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a12c440ac07ab0469bec708062087b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missileBasePrefab: {fileID: 5954718858891600536, guid: 85bb22789ff6eaf4084b50f476c8dd8f,
+      type: 3}
+  - playerTransform: {fileID: 7000925379959898714, guid: b294ff10e30feb14f903caba780cfafd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
